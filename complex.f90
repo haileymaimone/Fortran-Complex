@@ -1,6 +1,6 @@
 ! CSC 306 Assignment 6 - The Complex Solver
-! by Anthony Scott, Jonathan Sumaili, Hailey Maimone, and Ricky Peddicord
-! GROUP 4
+! Hailey Maimone
+
       
       MODULE cmplxsolver
         CONTAINS 
